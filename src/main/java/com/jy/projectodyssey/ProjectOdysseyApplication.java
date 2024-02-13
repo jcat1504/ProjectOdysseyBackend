@@ -1,5 +1,4 @@
 package com.jy.projectodyssey;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -7,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjectOdysseyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjectOdysseyApplication.class, args);
+		System.out.println("This is a test!"); // Correct placement
 	}
+
 
 }
