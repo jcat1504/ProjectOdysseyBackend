@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjectOdysseyApplication {
 
 	public static void main(String[] args) {
-		System.out.println("This is a test!"); // Correct placement
+		System.out.println("Good morning, Kittens");
 	}
 
 
