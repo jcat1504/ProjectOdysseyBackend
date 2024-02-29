@@ -27,8 +27,6 @@ public class Comment {
     public Task getTask() {
         return task;
     }
-
-    // Corrected setter
     public void setTask(Task task) {
         this.task = task;
     }
